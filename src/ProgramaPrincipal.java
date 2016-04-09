@@ -8,6 +8,10 @@ public class ProgramaPrincipal {
 		float num1 = 0;
 		float num2 = 0;
 
+
+		
+		
+		
 		while (sair) {
 			Scanner leitor = new Scanner(System.in);
 			System.out.print("1-soma\n");
